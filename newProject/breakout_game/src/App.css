@@ -1,0 +1,26 @@
+html {
+  background-image: url(./games/Breakout/img/6da7766a7f59283ab216df1229511315.jpeg);
+  background-size: cover;
+  width: 100%;
+  
+  
+}
+
+.header{
+  color: rgb(204, 0, 211);
+}
+
+#canvas {
+  background: rgb(42, 1, 80);
+}
+
+li {
+  /* border: rgb(90, 0, 87) solid .1em; */
+  /* width: 5em; */
+  font-size: .75em;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+  color: rgb(247, 0, 255);
+}
